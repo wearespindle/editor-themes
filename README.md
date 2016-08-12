@@ -21,7 +21,7 @@ Paste the file
 
 Select the theme in Sublime Text:
 
-*Preferences -> Color Scheme -> User -> Sublime Text Sindle*
+*Preferences -> Color Scheme -> User -> Sublime Text Spindle*
 
 DONE!
 
